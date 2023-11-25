@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    align-content: center;
+    flex-basis: auto;
+    flex-direction: row;
+    margin: auto;
+    width: fit-content;
+    padding: .75em;
+}
+
+.navbarHeader {
+    /*noinspection CssUnresolvedCustomProperty*/
+    font-family: var(--font-inter);
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-size: 3em;
+}
